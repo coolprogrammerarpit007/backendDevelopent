@@ -1,0 +1,6 @@
+Server :- A server is a computer which provides resources, data,services or programs to other computers, known as clients, over a http network. it handles requests from clients.process them  and send back an appropriate response.
+
+Client:- A client is a computer or software that requests services or resources from a server over a network. it interacts with the server by sending requests and receiving response. typically through a web browser.
+
+CLI:- CLI is a text-based interface where users type commands to perform tasks.
+GUI :- GUI is a graphical user interface where users interact with the system using visual elements such as icons, buttons.
